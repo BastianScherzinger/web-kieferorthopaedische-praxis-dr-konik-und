@@ -1,0 +1,72 @@
+{
+  "site_name": "Kieferorthopädische Praxis Dr. Konik & Kollegen",
+  "branche": "Zahnarzt",
+  "stadt": "Fellbach",
+  "telefon": "",
+  "email": "",
+  "adresse": "Strümpfelbacher Str. 21, 71384 Weinstadt (Endersbach) 6,7 km",
+  "akzent": "#FFD700",
+  "fotos": [
+    "/static/img/gal_ph1.svg",
+    "/static/img/gal_ph2.svg",
+    "/static/img/gal_ph3.svg"
+  ],
+  "hero_image": "/static/img/hero.png",
+  "headline": "Kieferorthopädie in Fellbach",
+  "subline": "Professionelle Mund-Kiefer-Gesundheit für Sie",
+  "ueber_titel": "Zuverlässige Kieferorthopädische Behandlungen",
+  "ueber_text": "Die Kieferorthopädische Praxis Dr. Konik & Kollegen in Fellbach bietet hochwertige und individuelle Behandlungen für Ihre Mund-Kiefer-Probleme. Unsere Patienten profitieren von der Erfahrung unserer erfahrenen Teammitglieder, die sich auf kieferorthopädische Therapien spezialisiert haben.",
+  "leistungen": [
+    {
+      "titel": "Kieferorthopädie",
+      "text": "Individuelle Behandlungspläne für optimale Mund-Kiefer-Gesundheit"
+    },
+    {
+      "titel": "Orthodontie",
+      "text": "Zahnspangen und andere orthodontische Lösungen zur perfekten Zahnstellung"
+    },
+    {
+      "titel": "Kinderorthopädie",
+      "text": "Frühzeitige Behandlung von Kiefer- und Zahnproblemen bei Kindern"
+    },
+    {
+      "titel": "Prophylaxe",
+      "text": "Regelmäßige Kontrolluntersuchungen zur Vorbeugung von Mund-Kiefer-Erkrankungen"
+    }
+  ],
+  "cta_text": "Termin für eine kostenlose Beratung vereinbaren",
+  "seo_title": "Kieferorthopädische Praxis Dr. Konik & Kollegen - Fellbach",
+  "seo_desc": "Die Kieferorthopädische Praxis in Fellbach bietet individuelle Behandlungen für Mund-Kiefer-Probleme.",
+  "jahr": 2026,
+  "hero_source": "template",
+  "hero_template": "zahnarzt.jpg",
+  "rechner": {
+    "titel": "Kostenrechner",
+    "untertitel": "Unverbindliche Sofort-Schätzung",
+    "posten": [
+      {
+        "name": "Professionelle Zahnreinigung",
+        "ab": 80,
+        "bis": 150
+      },
+      {
+        "name": "Bleaching",
+        "ab": 300,
+        "bis": 700
+      },
+      {
+        "name": "Implantat (Richtwert)",
+        "ab": 1800,
+        "bis": 3500
+      }
+    ],
+    "hinweis": "Grobe Orientierung — Ihr genaues, kostenloses Angebot erstellen wir nach kurzer Rücksprache."
+  },
+  "site_version": "1.0",
+  "font_display": "Poppins",
+  "font_body": "Inter",
+  "taste_applied": true,
+  "about_image": "/static/img/about_ph.svg",
+  "placeholder_images": true,
+  "hero_refresh_version": 7
+}
