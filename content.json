@@ -106,5 +106,9 @@
     "Personalisierte Behandlungspläne für jeden Patienten",
     "Flexibilität bei Terminvereinbarungen"
   ],
-  "content_enriched": true
+  "content_enriched": true,
+  "makeover_stages": [
+    "lokal"
+  ],
+  "makeover_version": 7
 }
