@@ -107,8 +107,33 @@
     "Flexibilität bei Terminvereinbarungen"
   ],
   "content_enriched": true,
+  "team4": [
+    {
+      "name": "[Name]",
+      "rolle": "Kieferorthopädin",
+      "foto": ""
+    },
+    {
+      "name": "[Name]",
+      "rolle": "Fachzahnarzt",
+      "foto": ""
+    },
+    {
+      "name": "[Name]",
+      "rolle": "Zahnmedizinische Assistenz",
+      "foto": ""
+    },
+    {
+      "name": "[Name]",
+      "rolle": "Empfang & Terminplanung",
+      "foto": ""
+    }
+  ],
+  "map_embed": "https://www.openstreetmap.org/export/embed.html?bbox=9.3611088%2C48.8073726%2C9.3711088%2C48.8173726&layer=mapnik&marker=48.8123726%2C9.3661088",
+  "maps_url": "https://www.openstreetmap.org/?mlat=48.8123726&mlon=9.3661088#map=16/48.8123726/9.3661088",
   "makeover_stages": [
-    "lokal"
+    "lokal",
+    "politur"
   ],
   "makeover_version": 7
 }
